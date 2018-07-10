@@ -1,0 +1,31 @@
+body {
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
+	background-color: black;
+}
+
+.gif-div {
+	height: 200px;
+	width: auto;
+	margin: 15px 8px;
+	float: left;
+
+}
+
+.btn {
+	margin: 5px;
+}
+
+#gifdiv{
+	margin: 30px 0;
+
+}
+
+#searchdiv {
+	margin: 30px 0;
+
+}
+
+h1 {
+	text-align: center;
+}
